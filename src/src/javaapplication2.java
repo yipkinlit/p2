@@ -13,5 +13,5 @@ public class javaapplication2 {
     //ffeaf
     //123
     //123
-    System.out.println("123");
+    //123
 }
